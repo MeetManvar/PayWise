@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313113631758",
+    "firebase_url": "https://paywise-2d927-default-rtdb.firebaseio.com",
+    "project_id": "paywise-2d927",
+    "storage_bucket": "paywise-2d927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313113631758:android:5e27341393b0a24af1b05f",
+        "android_client_info": {
+          "package_name": "com.example.paywise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313113631758-344mauo8jetnfr84i9qgb14ch478n7tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paywise",
+            "certificate_hash": "b21a912a0b8decb30c0051e3c6d95924860abe78"
+          }
+        },
+        {
+          "client_id": "313113631758-mv2u00h8p7tfoaq55960vqvcs9f1m1pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxLz6-7c17d1XF3g3mnaZ9uAnTH-nP36g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313113631758-mv2u00h8p7tfoaq55960vqvcs9f1m1pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
